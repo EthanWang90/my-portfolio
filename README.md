@@ -1,2 +1,3 @@
-# my-portfolio
-my professional portfolio
+# Ethan Wang's portfolio
+
+This is my professional portfolio. It uses AWS and Reactjs
